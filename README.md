@@ -1,4 +1,5 @@
 Mais que Programação: Leituras para Evoluir como Profissional e Pessoa
+
 Salve, comunidade DIO (Digital Innovation One)! Meu nome é Lucas Padroni, e eu estou muito animado por estar aqui hoje. Este é oficialmente o meu primeiro artigo na plataforma, um passo que dou com muito orgulho para trocar ideia e compartilhar aprendizados com esse ecossistema tech gigante.
 
 Quem vive no corre da programação sabe que a nossa rotina vai muito além de abrir a IDE, subir um container ou resolver conflitos de merge no Git. No dia a dia, a gente esbarra em bugs que desafiam a lógica, prazos que parecem impossíveis, decisões arquiteturais complexas e aquela velha pressão de ter que aprender um framework novo a cada semana.
